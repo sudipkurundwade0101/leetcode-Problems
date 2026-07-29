@@ -10,10 +10,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3945-digit-frequency-score](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3945-digit-frequency-score](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

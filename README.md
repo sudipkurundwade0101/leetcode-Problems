@@ -23,4 +23,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 <!---LeetCode Topics End-->

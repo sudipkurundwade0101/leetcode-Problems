@@ -39,4 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -26,10 +27,12 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [3110-score-of-a-string](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

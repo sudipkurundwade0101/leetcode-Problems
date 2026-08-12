@@ -28,6 +28,7 @@
 | ------- | ------- |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [2469-convert-the-temperature](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3945-digit-frequency-score](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |

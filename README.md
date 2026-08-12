@@ -9,6 +9,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
@@ -75,4 +76,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 <!---LeetCode Topics End-->

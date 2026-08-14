@@ -11,6 +11,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -33,6 +34,7 @@
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -101,6 +103,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -110,4 +113,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

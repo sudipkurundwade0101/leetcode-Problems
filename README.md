@@ -127,4 +127,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->

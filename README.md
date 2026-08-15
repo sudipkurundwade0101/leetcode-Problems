@@ -130,5 +130,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1693-daily-leads-and-partners](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1693-daily-leads-and-partners/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->

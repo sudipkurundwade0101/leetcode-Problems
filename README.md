@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -151,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
@@ -138,6 +139,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Database
 | Problem Name | Difficulty |

@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |

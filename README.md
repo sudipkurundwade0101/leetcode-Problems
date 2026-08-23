@@ -103,6 +103,7 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0693-binary-number-with-alternating-bits/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Backtracking

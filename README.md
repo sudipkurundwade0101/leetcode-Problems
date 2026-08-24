@@ -15,6 +15,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |

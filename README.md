@@ -18,6 +18,7 @@
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |

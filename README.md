@@ -12,6 +12,7 @@
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0860-lemonade-change](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -32,6 +33,7 @@
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -174,4 +176,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->

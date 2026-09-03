@@ -25,6 +25,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

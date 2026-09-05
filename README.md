@@ -39,6 +39,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | [0917-reverse-only-letters](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

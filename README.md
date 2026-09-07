@@ -164,6 +164,7 @@
 | [0584-find-customer-referee](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |

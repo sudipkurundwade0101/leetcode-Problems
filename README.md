@@ -58,6 +58,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

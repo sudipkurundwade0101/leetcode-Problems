@@ -77,6 +77,7 @@
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -126,6 +127,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |

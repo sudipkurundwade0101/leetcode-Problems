@@ -21,6 +21,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -118,6 +119,7 @@
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0693-binary-number-with-alternating-bits/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |

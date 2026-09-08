@@ -15,6 +15,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 ## String
@@ -195,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

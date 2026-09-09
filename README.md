@@ -177,6 +177,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1693-daily-leads-and-partners/) | Easy |

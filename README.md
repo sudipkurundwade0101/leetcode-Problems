@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
@@ -33,6 +34,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -76,6 +78,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
@@ -113,6 +116,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |

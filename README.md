@@ -53,6 +53,7 @@
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0650-2-keys-keyboard/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -130,6 +131,7 @@
 | [0190-reverse-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0693-binary-number-with-alternating-bits/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -216,4 +218,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->

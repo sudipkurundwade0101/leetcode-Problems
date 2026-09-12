@@ -14,6 +14,7 @@
 | [0860-lemonade-change](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
@@ -105,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@
 | [0860-lemonade-change](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -57,6 +58,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |

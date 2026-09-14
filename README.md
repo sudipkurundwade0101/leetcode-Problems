@@ -11,6 +11,7 @@
 | [0697-degree-of-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0812-largest-triangle-area](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0860-lemonade-change](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0650-2-keys-keyboard](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0650-2-keys-keyboard/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Game Theory

@@ -62,6 +62,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -210,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -188,6 +188,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 | [0577-employee-bonus](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |

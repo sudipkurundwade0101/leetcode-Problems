@@ -28,6 +28,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -217,6 +218,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

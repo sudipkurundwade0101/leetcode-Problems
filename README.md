@@ -203,6 +203,7 @@
 | [1693-daily-leads-and-partners](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3436-find-valid-emails](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/3436-find-valid-emails/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

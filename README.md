@@ -205,6 +205,7 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Easy/3465-find-products-with-valid-serial-numbers/) | Easy |
+| [3580-find-consistently-improving-employees](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/MySQL/Medium/3580-find-consistently-improving-employees/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

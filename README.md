@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -211,6 +212,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |

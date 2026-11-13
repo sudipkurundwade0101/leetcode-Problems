@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0650-2-keys-keyboard/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |

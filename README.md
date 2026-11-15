@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -149,6 +150,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0693-binary-number-with-alternating-bits/) | Easy |

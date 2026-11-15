@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
@@ -142,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -226,6 +228,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |

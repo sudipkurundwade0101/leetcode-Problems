@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -47,6 +48,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -133,12 +135,14 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -230,6 +234,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -258,4 +263,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

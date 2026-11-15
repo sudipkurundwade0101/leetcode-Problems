@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |

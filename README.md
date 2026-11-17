@@ -103,6 +103,7 @@
 | [0205-isomorphic-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sudipkurundwade0101/leetcode-Problems/tree/main/Java/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
